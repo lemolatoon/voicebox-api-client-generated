@@ -3,4 +3,5 @@
 /voicebox
 package-lock.json
 tsconfig.json
-.gimodules
+.gitmodules
+.gitignore
